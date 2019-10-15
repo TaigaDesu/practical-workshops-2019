@@ -9,7 +9,7 @@ this repository as a record of your work.  This can then form part of your ongoi
 You can update this README file to personalise your repository. 
 
 Commit history from private repository
-<img src ="CommitHistory\portfolio1 history.JPG" style="width:200px;height:200px;">
+<img src ="commitHist\commit history.PNG" style="width:200px;height:200px;">
 
 
 
